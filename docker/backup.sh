@@ -6,7 +6,7 @@
 usage () {
   cat <<-EOF
 
-  Automated backup script for Postgresql databases
+  Automated backup script for Postgresql databases for ISB.
 
   Refer to the project documentation for additional details on how to use this script.
   - https://github.com/BCDevOps/backup-container
